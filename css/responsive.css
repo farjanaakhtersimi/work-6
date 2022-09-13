@@ -1,0 +1,539 @@
+@media(max-width: 1199px){
+
+.navbar-nav {
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+}
+.banner-content {
+    text-align: center;
+}
+h1 {
+    font-size: 42px;
+}
+.banner-content .btn {
+    font-size: 14px;
+    }
+
+.feature {
+    padding: 20px 16px !important;
+    margin: 60px 0;
+}
+.feature-2 {
+    margin: 60px 0px 60px;
+}
+.feature-2 h4 {
+    margin: 12px 0px;
+    font-size: 22px;
+}
+.feature-2 p {
+
+    line-height: 22px;
+}
+.feature .saving {
+    padding-top: 27px;
+}
+.banner-content-2 h2 {
+    font-size: 21px;
+}
+.banner-content-2 {
+
+    padding-left: 10px;
+    padding-right: 40px;
+}
+.view {
+    margin-bottom: 60px;
+}
+.amount-section {
+    padding: 40px 0px;
+}
+.amount ul li {
+    margin: 0px 25px;
+}
+.amount ul li h2 {
+    font-size: 40px;
+}
+.spider-section {
+    margin: 60px 0px;
+}
+.owner-section {
+    margin: 60px 0 40px;
+}
+.identity h4 {
+    margin: 20px 0px 2px;
+}
+.consultation-section {
+    padding: 50px 0px;
+    margin-bottom: 50px;
+ 
+}
+.about span {
+    margin: 18px auto auto;
+}
+.about h2 {
+    margin-bottom: 15px;
+}
+.blog-section {
+    margin: 50px 0px 35px;
+}
+.card-body h4 {
+    margin: 4px 0px -6px;
+    line-height: 20px;
+}
+.card-body p {
+    font-size: 14px;
+    line-height: 18px;
+    margin-top: 12px;
+}
+.fa, .fas {
+    margin-top: 70px;
+}
+footer {
+    padding: 50px 0px;
+}
+.content-part-1 p, .widget p {
+    font-size: 14px;
+    margin: 20px 0px;
+}
+.content-part-1 li {
+    width: 35px;
+    height: 35px;
+
+}
+.content-part-1 li i {
+    line-height: 33px;
+}
+.widget h4 {
+    font-size: 17px;
+    margin-bottom: 25px;
+}
+.content-part-2 ul {
+    margin: 15px 0px;
+}
+.content-part-2 ul li {
+    margin-right: 4px;
+    line-height: 19px;
+}
+.content-part-2 ul li span {
+    font-size: 13px;
+
+}
+ .content-part-2 .fa, .fas {
+    margin-top: 0;
+}
+.content-part-3 ul li {
+    font-size: 13px;
+    line-height: 22px;
+}
+}
+@media(max-width: 991px){
+	.container {
+    max-width: 701px;
+}
+	.heading-part-1 ul li {
+    margin: -4px 12px;
+}
+.heading-part-1 p {
+    padding-top: 0px;
+}
+.navbar-nav {
+    text-align: end;
+    flex-direction: column;
+}
+h1 {
+    font-size: 32px;
+}
+.banner-content .survey {
+    margin: 25px 25px;
+}
+h4 {
+    font-size: 17px;
+    margin-bottom: 0;
+    font-weight: 600;
+}
+.banner-content span {
+    font-size: 12px;
+    font-weight: 500;
+}
+.banner-content .btn {
+    font-size: 12px !important;
+    margin-left: 8px;
+    padding: 8px 18px;
+}
+.custom-btn-reverse {
+    padding: 8px 12px !important;
+}
+.feature {
+    padding: 15px 10px !important;
+    margin: 45px 0;
+}
+.feature h4 {
+    margin: 12px 0px;
+    font-size: 15px;
+}
+.feature p {
+    font-size: 13px;
+}
+.feature .saving {
+    padding-top: 27px;
+}
+.about h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.about p {
+    font-size: 13px;
+}
+.about span {
+    margin: 15px auto auto;
+}
+.feature-2 {
+    margin: 45px 0px 30px;
+}
+.feature-2 h4 {
+    margin: 10px 0px;
+    font-size: 20px;
+}
+.feature-2 p {
+    font-size: 13px;
+    line-height: 20px !important;
+}
+.view .btn {
+    font-size: 12px;
+    padding: 8px 12px;
+}
+.view {
+    margin-bottom: 40px;
+}
+.order-1{
+	order: 2;
+}
+.order-2{
+	order: 1;
+}
+.banner-content-2 {
+    padding-top: 45px;
+    padding-right: 0;
+}
+.iphone {
+    height: 410px;
+    margin-top: 20px;
+    width: 330px !important;
+}
+.banner-content-2 h2 {
+    font-size: 20px;
+}
+.steps h4 {
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+.steps p {
+    margin-bottom: 0px;
+    font-size: 12px;
+    font-family: var(--font-family-two);
+    color: rgb(228, 226, 223);
+    margin-left: 10px;
+}
+.amount-section {
+    padding: 30px 0px;
+
+}
+.amount ul li h2 {
+    font-size: 32px;
+}
+.amount ul li span {
+    font-size: 14px;
+    text-transform: uppercase;
+    color: rgb(255, 253, 250);
+}
+.amount ul li {
+    margin: 0px 14px;
+}
+.spider-section {
+    margin: 50px 0px 40px;
+}
+.services span {
+    height: 45px;
+    width: 45px;
+    margin-bottom: 10px;
+}
+.services strong {
+    font-size: 14px;
+}
+.spider .img-fluid {
+    width: 250px;
+}
+.owner-section {
+    margin: 50px 0 35px;
+}
+.identity h4 {
+    margin: 12px 0px -2px;
+    font-size: 16px;
+}
+.identity span {
+    font-size: 12px;
+}
+.consultation-section {
+    padding: 40px 0px;
+    margin-bottom: 40px;
+}
+.card ul li strong {
+    height: 30px;
+    width: 30px;
+    transform: translate(-5px, -12px);
+   
+
+}
+.card ul li span {
+    font-size: 10px;
+}
+.card-body h4 {
+    font-size: 14px;
+    line-height: 18px;
+    font-weight: 600;
+
+}
+.card-body p {
+    font-size: 12px;
+}
+.card-body {
+    padding-bottom: 14px;
+}
+.blog-section {
+    margin: 50px 0px 15px;
+}
+.client-img img {
+    margin-top: 40px;
+}
+.carousel-caption span {
+    font-size: 13px;
+}
+.content-part-2 .fa, .fas {
+    margin-top: 75px;
+}
+footer {
+    padding: 40px 0px 35px;
+}
+.content-part-1 .img-fluid {
+    max-width: 100%;
+    height: auto;
+    width: 110px;
+}
+.content-part-1 p, .widget p {
+    font-size: 11px;
+    margin: 16px 0px;
+}
+.content-part-1 li {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 28px;
+    width: 28px;
+    font-size: 12px;
+    margin-right: 8px;
+}
+.widget {
+    padding-left: 0px;
+}
+.content-part-2 .fa, .fas {
+    margin-top: 0;
+}
+.content-part-2 ul li {
+    margin-right: 4px;
+    line-height: 16px;
+}
+.content-part-2 ul li span {
+    font-size: 10px;
+}
+.widget h4 {
+    font-size: 15px;
+    margin-bottom: 17px;
+}
+.widget h4::after {
+    margin-top: 7px;
+}
+.content-part-3 ul li {
+    font-size: 10px;
+    line-height: 20px;
+}
+
+.widget form input {
+    font-size: 10px;
+}
+
+.footer-nav {
+    padding: 8px 0px;
+}
+.footer-nav span {
+    font-size: 10px;
+}
+.footer-nav li a {
+    font-size: 9px;
+    padding: 0px 10px;
+
+}
+.heading-part-2 .img-fluid {
+    width: 124px;
+}
+}
+@media(max-width: 767px){
+	.heading-part-1 p {
+    font-size: 9px;
+
+}
+.heading-part-1 ul li {
+    margin: -20px 12px;
+}
+.heading-part-1 ul li a {
+    font-size: 9px;
+}
+.heading-part-2 {
+    padding: 0 0px;
+}
+.heading-part-2 ul li a {
+    font-size: 10px;
+    padding: 6px 14px !important;
+}
+h1 {
+    font-size: 28px;
+}
+.banner-content .survey {
+    margin: 10px 45px;
+}
+h4 {
+    font-size: 14px;
+}
+.banner-content span {
+    font-size: 10px;
+}
+.banner-content .btn {
+    font-size: 9px !important;
+    padding: 6px 14px;
+}
+.custom-btn-reverse {
+    padding: 6px 9px !important;
+}
+.feature {
+    padding: 15px 10px !important;
+    margin: auto;
+    margin-top: 35px;
+}
+.about {
+    margin-top: 35px !important;
+    width: 300px;
+    margin: auto;
+}
+.feature-2 {
+    margin-top: 35px !important;
+    margin: auto;
+}
+.view {
+    margin: 30px 0;
+}
+.view .btn {
+    font-size: 10px;
+}
+.banner-content-2 {
+    padding-top: 35px;
+    padding-right: 0;
+    width: 410px;
+    margin: auto;
+}
+.amount ul li h2 {
+    font-size: 28px;
+}
+.amount ul li span {
+    font-size: 11px;
+}
+.consultation-section {
+    padding: 35px 0px;
+    margin-bottom: 0;
+}
+.card {
+    margin-bottom: 30px;
+}
+.content-part-1 {
+    width: 180px;
+    margin: auto;
+}
+.widget {
+    margin-bottom: 24px !important;
+    padding-left: 0px;
+    margin: auto;
+    width: 170px;
+}
+.widget h4::after {
+    width: 40px;
+}
+.footer {
+    padding: 40px 0px 0;
+}
+
+
+}
+@media(max-width: 575px){
+	.steps span {
+    height: 40px;
+    width: 40px;
+}
+.steps h4 {
+    font-size: 16px;
+    margin-bottom: 5px !important;
+    margin-top: 18px;
+}
+.iphone-section .steps {
+    margin-top: 18px;
+}
+.amount-section {
+    padding: 15px 0px;
+}
+.amount ul li {
+    margin: 5px 28px;
+}
+.spider .img-fluid {
+    width: 220px;
+}
+.services span {
+    height: 35px;
+    width: 35px;
+    margin-bottom: 8px;
+}
+
+.feature {
+    margin: auto;
+    width: 390px;
+}
+.feature-2 {
+    margin: auto;
+    width: 390px;
+}
+.services strong {
+    font-size: 10px;
+}
+.spider {
+    width: 323px;
+    margin: auto;
+}
+.identity img {
+    width: 230px !important;
+}
+.card {
+    margin-bottom: 25px !important;
+    width: 390px;
+    margin: auto;
+}
+.widget {
+    margin-bottom: 0;
+    padding-left: 0px;
+    margin: 0 auto;
+    margin-top: 20px;
+    width: 170px;
+}
+.footer-nav li a {
+    font-size: 8px;
+    padding: 0px 6px;
+}
+}
